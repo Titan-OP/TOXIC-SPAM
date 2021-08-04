@@ -1,4 +1,4 @@
-# RDX MULTI DEPLOY BOT
+# COPYCAT MULTI DEPLOY BOT
 
 ## MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
 
@@ -28,12 +28,12 @@ No Requirement of API ID and API HASH
 
    - DEPLOY ON 25 ACCOUNTS AT A SAME TIME 
 
-   - SPAM SPEED OP ( YUKKI BOT KA MODIFIED HAI HOGA HI ) 
+   - SPAM SPEED OP 
 
    - REPLYRAID , RAID PLUGIN 
 
 
-### You can Use these [API ID and API HASH](https://t.me/RDX_OFFICIAL_BOT/2) while deploying
+
 
 
 
