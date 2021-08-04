@@ -135,12 +135,12 @@
       },
       "USERNAME": {
         "description": "COMING SOON",
-        "value": "YOUR USERNAME",
+        "value": "@Copycat_Spam",
         "required": false
       },
       "ALIVE_NAME": {
         "description": "COMING SOON",
-        "value": "YOUR NAME",
+        "value": "#Copycat User",
         "required": false
       },
       "API_ID": {
@@ -155,7 +155,7 @@
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "1511772190",
         "required": true
       }
   },
