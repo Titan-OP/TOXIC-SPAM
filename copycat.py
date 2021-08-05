@@ -1413,11 +1413,14 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "Pong!"
+        text = "Op Copycat !"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"😬𝗟𝗜𝗡𝗚!\n`{ms}` 𝗺𝘀")
+        await event.edit(f"""
+    ||•𝗖𝗢𝗣𝗬𝗖𝗔𝗧 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧•||
+█▀█   █▀█   █▄░█   █▀▀
+█▀▀   █▄█   █░▀█   █▄█!\n`{ms}` 𝗺𝘀")
 
 
 
