@@ -139,17 +139,17 @@
         "required": false
       },
       "ALIVE_NAME": {
-        "description": "COMING SOON",
+        "description": "Leave As It Is",
         "value": "#Copycat User",
         "required": false
       },
       "API_ID": {
-        "description": "Telethon String Session",
+        "description": "Generate It From https://my.telegram.org/auth",
         "value": "2730123",
         "required": true
       },
       "API_HASH": {
-        "description": "Api Hash",
+        "description": "Generate It From https://my.telegram.org/auth ",
         "value": "c180ae374f350ed3e6f9d4edec3e147c",
         "required": true
       },
