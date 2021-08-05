@@ -21,7 +21,7 @@ No Requirement of API ID and API HASH
    - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@unknownforall1/RDX-MULTI-SPAM-BOT)
 
 
-#### Message me on telegram [UNKNOWN](https://t.me/xxxxxxx_UNKNOWN_xxxxxxx)
+#### Message me on telegram [#Oᑭ ᑕOᑭYᑕᗩT](https://t.me/My_Love_Coming_Near)
 
 
 # FEATURES
@@ -38,11 +38,11 @@ No Requirement of API ID and API HASH
 
 
 ## SUPPORT GROUP
-   - Join [RDX GROUP](@RDX_ON_FIRE) for any assistance.
+   - Join [COPYCAT GROUP](@copycat_userbot) for any assistance.
 
 
 ## JOIN SUPPORT CHANNEL
-   - Join [RDX SUPPORT CHANNEL](@RDX_OFFICIAL_BOT).
+   - Join [COPYCAT SUPPORT CHANNEL](@Copycat_Spam).
 
 
 ## Credits
