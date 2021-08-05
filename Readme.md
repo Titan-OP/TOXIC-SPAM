@@ -10,7 +10,8 @@
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Funknownforall1%2FCopy_Multi_Spam_Bot)
+[![Deploy](https://telegra.ph/file/14681cf1b19e52c18d75d.jpg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/Copy_Multi_Spam_Bot)
+
 
 
 
