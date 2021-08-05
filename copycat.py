@@ -834,7 +834,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("Succesfully Changed Bio By MULTI SPAMBOT")
+                await event.edit("Succesfully Changed Bio By COPYCAT MULTI SPAMBOT")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -960,7 +960,7 @@ async def _(e):
         if len(e.text) == 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "RDX BOT Leaving....."
+            text = "ᑕOᑭYᑕᗩT ᗷOT ᒪᗴᗩᐯIᑎᘜ......"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
@@ -1538,12 +1538,12 @@ async def help(e):
         
 text = """
 
-💥💥RDX SPAM BOT IS MODIFIED OF YUKKI 💥💥💥
-💥💥💥💥💥💥 BY  SIDDHANT   OP 💥💥💥💥💥💥"""
+💥💥ᑕOᑭYᑕᗩT ᗰᑌᒪTI Տᑭᗩᗰ ᗷOT IՏ ᗩ ᗰOᗪIᖴIᗴᗪ ᐯᗴᖇՏIOᑎ Oᖴ YᑌKKI  💥💥💥
+💥💥💥💥💥💥 ᗷY ᑕOᑭYᑕᗩT    Oᑭ 💥💥💥💥💥💥"""
 
 print(text)
 print("")
-print("SMEX! RDX MULTI SPAM BOT STARTED SUCCESFULLY.")
+print("SMEX! ᑕOᑭYᑕᗩT MULTI SPAM BOT STARTED SUCCESFULLY.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
