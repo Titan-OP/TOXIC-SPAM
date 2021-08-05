@@ -36,14 +36,12 @@ No Requirement of API ID and API HASH
 
 
 
-
-## SUPPORT GROUP
-   - Join [COPYCAT GROUP](@copycat_userbot) for any assistance.
-
-
-## JOIN SUPPORT CHANNEL
-   - Join [COPYCAT SUPPORT CHANNEL](@Copycat_Spam).
-
-
+`  
+## Support Group
+  - Telegram Group [『Copycat Group』 ](https://t.me/Lovers_Match)
+   
+- Support Group [ Helping Group ](https://t.me/Copycat_Spam_Bot)
+   
+- Support Channel [ COPYCAT ](https://t.me/Copycat_Spam)
 ## Credits
    - Thanks to [Yukki Team](https://t.me/officialyukki).
