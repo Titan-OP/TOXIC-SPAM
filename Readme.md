@@ -3,7 +3,7 @@
 ## MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/c6d5a3802c0f0a7061a34.jpg">
+  <img src="https://telegra.ph/file/0f1f6634cf402f464ddd2.jpg">
 </p>
 
 
