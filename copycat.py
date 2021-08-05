@@ -830,7 +830,7 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
         if len(e.text) > 5:
             bio = str(yukki[0])
-            text = "Changing Bio"
+            text = "CHANGE HO GYI BHADWE"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
@@ -872,7 +872,7 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = "Joining..."
+            text = "AA RHA MAA CHODNE UNKI"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
@@ -916,7 +916,7 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = yukki[0]
-            text = "Joining...."
+            text = "AA RHA HU MAA CHODNE UNKI"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
@@ -960,7 +960,7 @@ async def _(e):
         if len(e.text) == 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "ᑕOᑭYᑕᗩT ᗷOT ᒪᗴᗩᐯIᑎᘜ......"
+            text = "HO GYA EXIT LAUDE "
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
@@ -1543,7 +1543,7 @@ text = """
 
 print(text)
 print("")
-print("SMEX! ᑕOᑭYᑕᗩT MULTI SPAM BOT STARTED SUCCESFULLY.")
+print("SMEX ! ᑕᕼᗩᒪ ᘜYᗩ ᗰᗩᗪᗩᖇᑕᕼOᗪ Tᗴᖇᗩ ᗷOT ᒍᗩᗩ ᒍᗩKᗴ .ping ᒪIKᕼ Kᗴ ᗪᗴKᕼ #Oᑭ ᑕOᑭYᑕᗩT.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
