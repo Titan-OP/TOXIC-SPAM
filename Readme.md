@@ -1,7 +1,5 @@
 # COPYCAT MULTI DEPLOY BOT
 
-## MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
-
 <p align="center">
   <img src="https://telegra.ph/file/0f1f6634cf402f464ddd2.jpg">
 </p>
@@ -46,3 +44,5 @@ No Requirement of API ID and API HASH
 - Support Channel [ COPYCAT ](https://t.me/Copycat_Spam)
 ## Credits
    - Thanks to [Yukki Team](https://t.me/officialyukki).
+
+## MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
