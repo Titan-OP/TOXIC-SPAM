@@ -1542,7 +1542,7 @@ async def help(e):
 text = """
 
 💥💥ᑕOᑭYᑕᗩT ᗰᑌᒪTI Տᑭᗩᗰ ᗷOT IՏ ᗩ ᗰOᗪIᖴIᗴᗪ ᐯᗴᖇՏIOᑎ Oᖴ YᑌKKI  💥💥💥
-💥💥💥💥💥💥 ᗷY ᑕOᑭYᑕᗩT    Oᑭ 💥💥💥💥💥💥"""
+💥💥💥💥💥💥 ᗷY ᑕOᑭYᑕᗩT   Oᑭ 💥💥💥💥💥💥"""
 
 print(text)
 print("")
