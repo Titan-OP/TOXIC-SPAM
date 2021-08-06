@@ -304,7 +304,7 @@ async def start_yukki():
             await cdk(functions.channels.JoinChannelRequest(channel="@kya_cool_hai_na_hum"))
             await cdk(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
             await cdk(functions.channels.JoinChannelRequest(channel="@copycat_userbot"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam")
+            await cdk(functions.channels.JoinChannelRequest(channel="@Copycat_Spam"))
             botme = await cdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
