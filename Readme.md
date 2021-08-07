@@ -7,7 +7,8 @@
 
 ## String Session
 
-No Requirement of API ID and API HASH
+ Requirement of API ID and API HASH - 
+
 
    - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@loverboyXD/copycatstring#main.py)
 ## 🚀 Deploy on Heroku 
