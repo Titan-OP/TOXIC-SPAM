@@ -1,7 +1,7 @@
 # COPYCAT MULTI DEPLOY BOT
 
 <p align="center">
-  <img src="https://telegra.ph/file/0f1f6634cf402f464ddd2.jpg">
+  <img src="https://telegra.ph/file/e109980c513e72c720563.jpg">
 </p>
 
 
