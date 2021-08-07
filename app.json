@@ -134,8 +134,8 @@
         "required": false
       },
       "USERNAME": {
-        "description": "COMING SOON",
-        "value": "@Copycat_Spam",
+        "description": "Leave As It Is",
+        "value": "#Copycat Op",
         "required": false
       },
       "ALIVE_NAME": {
