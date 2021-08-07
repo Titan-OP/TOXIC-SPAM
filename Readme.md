@@ -9,7 +9,7 @@
 
 No Requirement of API ID and API HASH
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@unknownforall1/RDX-MULTI-SPAM-BOT)
+   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@loverboyXD/copycatstring#main.py)
 ## 🚀 Deploy on Heroku 
 
 [![Deploy](https://telegra.ph/file/14681cf1b19e52c18d75d.jpg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/Copy_Multi_Spam_Bot)
