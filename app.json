@@ -137,7 +137,13 @@
         "description": "Leave As It Is",
         "value": "#Copycat Op",
         "required": false
-      },
+     },
+    "SUDO_HNDLR": {
+    "description": "Your sudo account Handler",
+    "value": "*"
+    "required": false
+
+     },
       "ALIVE_NAME": {
         "description": "Leave As It Is",
         "value": "#Copycat User",
