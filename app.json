@@ -138,10 +138,10 @@
         "value": "#Copycat Op",
         "required": false
      },
-    "SUDO_HNDLR": {
-    "description": "Your sudo account Handler",
-    "value": "*"
-    "required": false
+     "SUDO_HNDLR": {
+        "description": "Your sudo account Handler",
+        "value": "",
+        "required": false
 
      },
       "ALIVE_NAME": {
