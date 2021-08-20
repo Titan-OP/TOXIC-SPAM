@@ -954,21 +954,36 @@ async def _(e):
 @put.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 
 async def _(e):
-    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗟𝗲𝗮𝘃𝗲\n\nCommand:\n\n.leave <Channel or Chat ID>"
+
+    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗟𝗲𝗮𝘃𝗲\n\nCommand:\n\n,leave <Channel or Chat ID>"
+
     if e.sender_id in SMEX_USERS:
-        yukki = (".leave"(e.text.split(maxsplit=1)[1:])).split(" ", 1)
-        if len(e.text) == 7:
-            bc = yukki[0]
+
+        ustad = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+
+        if len(e.text) > 7:
+
+            bc = ustad[0]
+
             bc = int(bc)
-            text = "HO RHA HU EXIT RUKK..... "
+
+            text = "Leaving....."
+
             event = await e.reply(text, parse_mode=None, link_preview=None )
+
             try:
+
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("HO GYA LEFT")
+
+                await event.edit("LEFT HOGYA🙂")
+
             except Exception as e:
+
                 await event.edit(str(e))   
+
         else:
-            await e.reply(usage, parse_mode=None, link_preview=None )
+
+            await e.reply(usage, parse_mode=None, link_preview=None)
             
                 
         
