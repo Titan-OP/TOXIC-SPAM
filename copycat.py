@@ -967,7 +967,7 @@ async def _(e):
 
             bc = int(bc)
 
-            text = "Leaving....."
+            text = "#Op Copycat Bot Leaving....."
 
             event = await e.reply(text, parse_mode=None, link_preview=None )
 
@@ -975,7 +975,7 @@ async def _(e):
 
                 await event.client(LeaveChannelRequest(bc))
 
-                await event.edit("LEFT HOGYA🙂")
+                await event.edit("HO GYA LEAVE SIR😈")
 
             except Exception as e:
 
