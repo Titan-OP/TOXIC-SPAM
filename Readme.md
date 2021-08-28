@@ -31,17 +31,17 @@
 
 ## 📬 Telegram
     
-• [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) •
+- [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) -
 
 ----------------------
 
 ## 📍 FEATURES
 
-   • **DEPLOY ON 25 ACCOUNTS AT A SAME TIME**
+   - **DEPLOY ON 25 ACCOUNTS AT A SAME TIME**
 
-   • **SPAM SPEED OP**
+   - **SPAM SPEED OP**
 
-   • **REPLYRAID & RAID PLUGIN**
+   - **REPLYRAID & RAID PLUGIN**
 
 ----------------------
   
