@@ -31,9 +31,9 @@ CLICK ON THE PICTURE " COPY SPAM BOT DEPLOY " TO REDIRECT ON HEROKU DEPLOY ..
 
 ----------------------
 
-#### 📬 Message me on Telegram 
+## 📬 Message me on Telegram 
     
-    •[𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜](https://t.me/ToxicBoyxD)•
+    • [𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜](https://t.me/ToxicBoyxD) •
 
 ----------------------
 <summary>
