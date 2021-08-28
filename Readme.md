@@ -31,7 +31,7 @@
 
 ## 📬 Telegram
     
-- [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) -
+•> [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) <•
 
 ----------------------
 
