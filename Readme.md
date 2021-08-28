@@ -1,4 +1,4 @@
-## 😈 Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ 😈
+## 😈 Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ
 
 <p align="center">
   <img src="https://telegra.ph/file/d8e19ed588fcc7f0050e2.jpg">
@@ -11,15 +11,13 @@
  Requirement of API ID and API HASH - 
 
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@loverboyXD/copycatstring#main.py)
+   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@TitanOPX/ToXiCxD#main.py)
 
 ----------------------
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://telegra.ph/file/14681cf1b19e52c18d75d.jpg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/Copy_Multi_Spam_Bot)
-
-CLICK ON THE PICTURE " COPY SPAM BOT DEPLOY " TO REDIRECT ON HEROKU DEPLOY ..
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Titan-OP/TOXIC-SPAM)
 
 ----------------------
 
@@ -39,11 +37,11 @@ CLICK ON THE PICTURE " COPY SPAM BOT DEPLOY " TO REDIRECT ON HEROKU DEPLOY ..
 
 ## 📍 FEATURES
 
-   **• DEPLOY ON 25 ACCOUNTS AT A SAME TIME 
+   • **DEPLOY ON 25 ACCOUNTS AT A SAME TIME**
 
-   • SPAM SPEED OP 
+   • **SPAM SPEED OP**
 
-   • REPLYRAID & RAID PLUGIN**
+   • **REPLYRAID & RAID PLUGIN**
 
 ----------------------
   
