@@ -31,20 +31,20 @@ CLICK ON THE PICTURE " COPY SPAM BOT DEPLOY " TO REDIRECT ON HEROKU DEPLOY ..
 
 ----------------------
 
-## 📬 Telegram Username
+## 📬 Telegram
     
 • [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) •
 
 ----------------------
-<summary>
-📍 FEATURES
 
-   • DEPLOY ON 25 ACCOUNTS AT A SAME TIME 
+## 📍 FEATURES
+
+   **• DEPLOY ON 25 ACCOUNTS AT A SAME TIME 
 
    • SPAM SPEED OP 
 
-   • REPLYRAID & RAID PLUGIN 
-</summary>
+   • REPLYRAID & RAID PLUGIN**
+
 ----------------------
   
 ## Support Group
