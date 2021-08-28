@@ -1,4 +1,4 @@
-## 😈 Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ
+## 😈 Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ 😈 
 
 <p align="center">
   <img src="https://telegra.ph/file/d8e19ed588fcc7f0050e2.jpg">
@@ -8,10 +8,7 @@
 
 ## 🤖 Sᴛʀɪɴɢ Sᴇꜱꜱɪᴏɴ
 
- Requirement of API ID and API HASH - 
-
-
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@TitanOPX/ToXiCxD#main.py)
+[![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@TitanOPX/ToXiCxD#main.py)
 
 ----------------------
 
@@ -29,21 +26,26 @@
 
 ----------------------
 
-## 📬 Telegram
-    
-• [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) •
+## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs
+
+☞ `API_ID` - Get Yours from [Here](https://my.telegram.org/)<br>
+☞ `API_HASH` - Get Yours from [Here](https://my.telegram.org/)<br>
+☞ `STRING` - Your String Session!!<br>
+☞ `SUDO` - Sudo User ID!!<br>
 
 ----------------------
 
-## 😺 Github
-    
-• [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) •
+## Mʏ Sᴏᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛꜱ
 
-----------------------
+📬 **Telegram   :** ✨ [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) ✨
 
-## 🎭 Instagram
-    
-• [**Tᴇᴄʜɴᴏ★Pʀᴏ**](https://instagram.com/miraculous_tech?utm_medium=copy_link) •
+
+
+😺 **Github     :** ✨ [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) ✨
+
+
+
+🎭 **Instagram  :** ✨ [**Tᴇᴄʜɴᴏ★Pʀᴏ**](https://instagram.com/miraculous_tech?utm_medium=copy_link) ✨
 
 ----------------------
 
@@ -63,13 +65,18 @@
 
 ----------------------
   
-## Support Group
-  - Telegram Group [『Copycat Group』 ](https://t.me/Lovers_Match)
-   
-- Support Group [ Helping Group ](https://t.me/Copycat_Spam_Bot)
-   
-- Support Channel [ COPYCAT ](https://t.me/Copycat_Spam)
-## Credits
-   - Thanks to [Yukki Team](https://t.me/officialyukki).
+## 👮 Support
 
-## MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
+  - **Telegram Group :** [『**Chat Group**』 ](https://t.me/naughty_stud_ents)
+   
+  - **Support Group** [『**Helping Group**』](https://t.me/ToxicSpamxD)
+
+----------------------
+
+## 🎀 Credits
+
+   -  [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) **:** **Owner of This Repository**
+
+   - [**CopyCat**](https://GitHub.com/Copycat-izz-opp) **:** **Contributor of This Repository**
+
+   -  **Special Thanks to** [**Yukki Team**](https://t.me/officialyukki)
