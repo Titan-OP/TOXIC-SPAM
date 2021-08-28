@@ -35,6 +35,18 @@
 
 ----------------------
 
+## 😺 Github
+    
+• [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) •
+
+----------------------
+
+## 🎭 Instagram
+    
+• [**Tᴇᴄʜɴᴏ★Pʀᴏ**](https://instagram.com/miraculous_tech?utm_medium=copy_link) •
+
+----------------------
+
 ## 📍 FEATURES
 
    - **DEPLOY ON 25 ACCOUNTS AT A SAME TIME**
@@ -46,7 +58,7 @@
 ----------------------
 
 <p align="center">
-`😈TOXIC OP BOLTE😈`
+😈𝐓𝐎𝐗𝐈𝐂 𝐎𝐏 𝐁𝐎𝐋𝐓𝐄😈
 </p>
 
 ----------------------
