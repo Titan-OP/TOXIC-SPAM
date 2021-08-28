@@ -31,13 +31,13 @@ CLICK ON THE PICTURE " COPY SPAM BOT DEPLOY " TO REDIRECT ON HEROKU DEPLOY ..
 
 ----------------------
 
-## 📬 Message me on Telegram 
+## 📬 Telegram Username
     
-• [𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜](https://t.me/ToxicBoyxD) •
+• [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) •
 
 ----------------------
 <summary>
-<title>📍 FEATURES </title>
+📍 FEATURES
 
    • DEPLOY ON 25 ACCOUNTS AT A SAME TIME 
 
