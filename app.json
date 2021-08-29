@@ -136,7 +136,7 @@
       },
       "USERNAME": {
         "description": "Leave As It Is",
-        "value": "#Copycat Op",
+        "value": "#TOXIC_OP_BOLTE",
         "required": false
    
      },
