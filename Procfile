@@ -1,1 +1,1 @@
-worker: python3 copycat.py
+worker: python3 toxic.py
