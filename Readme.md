@@ -12,7 +12,7 @@
 
 ----------------------
 
-## 🚀 Deploy on Heroku 
+## 🚀 Dᴇᴘʟᴏʏ Tᴏ Hᴇʀᴏᴋᴜ 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Titan-OP/TOXIC-SPAM)
 
@@ -35,7 +35,7 @@
 
 ----------------------
 
-## Mʏ Sᴏᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛꜱ
+## 👥 Mʏ Sᴏᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛꜱ
 
 📬 **Telegram   :** ✨ [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) ✨
 
@@ -49,7 +49,7 @@
 
 ----------------------
 
-## 📍 FEATURES
+## 📍 Fᴇᴀᴛᴜʀᴇꜱ
 
    - **DEPLOY ON 25 ACCOUNTS AT A SAME TIME**
 
@@ -65,7 +65,7 @@
 
 ----------------------
   
-## 👮 Support
+## 👮 Sᴜᴘᴘᴏʀᴛ
 
   - **Telegram Group :** [『**Chat Group**』 ](https://t.me/naughty_stud_ents)
    
@@ -73,10 +73,19 @@
 
 ----------------------
 
-## 🎀 Credits
+## 🎀 Cʀᴇᴅɪᴛs
 
    -  [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) **:** **Owner of This Repository**
 
    - [**CopyCat**](https://GitHub.com/Copycat-izz-opp) **:** **Contributor of This Repository**
 
    -  **Special Thanks to** [**Yukki Team**](https://t.me/officialyukki)
+---------
+```
+MODIFIED VERSION OF YUKKI MULTI SPAM BOT!
+```
+--------
+```
+If you are kanging|copying|taking any part of code from this repository without a fork, then atleast give credits to our hardwork & star to this repo. ❤️
+```
+--------
