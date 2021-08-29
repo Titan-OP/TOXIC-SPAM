@@ -37,15 +37,15 @@
 
 ## 👥 Mʏ Sᴏᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛꜱ
 
-📬 **Telegram   :** [**𝐓σχιc✘𝐁σу**](https://t.me/ToxicBoyxD) 
+📬 **Tᴇʟᴇɢʀᴀᴍ   :** [**𝐓σχιc✘𝐁σу**](https://t.me/ToxicBoyxD) 
 
 
 
-😺 **Github     :** [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) 
+😺 **GɪᴛHᴜʙ     :** [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) 
 
 
 
-🎭 **Instagram  :** [**Tᴇᴄʜɴᴏ★Pʀᴏ**](https://instagram.com/miraculous_tech?utm_medium=copy_link) 
+🎭 **Iɴꜱᴛᴀɢʀᴀᴍ  :** [**Tᴇᴄʜɴᴏ★Pʀᴏ**](https://instagram.com/miraculous_tech?utm_medium=copy_link) 
 
 ----------------------
 
@@ -75,11 +75,11 @@
 
 ## 🎀 Cʀᴇᴅɪᴛs
 
-   -  [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) **:** **Owner of This Repository**
+   -  [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) **:** **oᴡɴᴇʀ Oꜰ Tʜɪꜱ Rᴇᴘᴏꜱɪᴛᴏʀʏ**
 
-   - [**CᴏᴘʏCᴀᴛ**](https://GitHub.com/Copycat-izz-opp) **:** **Contributor of This Repository**
+   - [**CᴏᴘʏCᴀᴛ**](https://GitHub.com/Copycat-izz-opp) **:** **Cᴏɴᴛʀɪʙᴜᴛᴏʀ Oꜰ Tʜɪꜱ Rᴇᴘᴏꜱɪᴛᴏʀʏ**
 
-   -  **Special Thanks to** [**Yukki Team**](https://t.me/officialyukki)
+   -  **Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ Tᴏ** [**Yukki Team**](https://t.me/officialyukki)
 ---------
 ```
 MODIFIED VERSION OF YUKKI MULTI SPAM BOT!
