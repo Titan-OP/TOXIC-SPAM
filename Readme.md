@@ -28,10 +28,10 @@
 
 ## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs
 
-☞ `API_ID` - Get Yours from [Here](https://my.telegram.org/)<br>
-☞ `API_HASH` - Get Yours from [Here](https://my.telegram.org/)<br>
-☞ `STRING` - Your String Session!!<br>
-☞ `SUDO` - Sudo User ID!!<br>
+☞ `API_ID` - ɢᴇᴛ ʏᴏᴜʀꜱ ꜰʀᴏᴍ [ʜᴇʀᴇ](https://my.telegram.org/)<br>
+☞ `API_HASH` - ɢᴇᴛ ʏᴏᴜʀꜱ ꜰʀᴏᴍ [ʜᴇʀᴇ](https://my.telegram.org/)<br>
+☞ `STRING` - ʏᴏᴜʀ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ!!<br>
+☞ `SUDO` - ꜱᴜᴅᴏ ᴜꜱᴇʀ ɪᴅ!!<br>
 
 ----------------------
 
@@ -51,11 +51,11 @@
 
 ## 📍 Fᴇᴀᴛᴜʀᴇꜱ
 
-   - **DEPLOY ON 25 ACCOUNTS AT A SAME TIME**
+   - **ᴅᴇᴘʟᴏʏ ᴏɴ 25 ᴀᴄᴄᴏᴜɴᴛꜱ ᴀᴛ ᴀ ꜱᴀᴍᴇ ᴛɪᴍᴇ**
 
-   - **SPAM SPEED OP**
+   - **ꜱᴘᴀᴍ ꜱᴘᴇᴇᴅ ᴏᴘ**
 
-   - **REPLYRAID & RAID PLUGIN**
+   - **ʀᴇᴘʟʏʀᴀɪᴅ & ʀᴀɪᴅ ᴘʟᴜɢɪɴ**
 
 ----------------------
 
@@ -67,9 +67,9 @@
   
 ## 👮 Sᴜᴘᴘᴏʀᴛ
 
-  - **Telegram Group :** [『**Chat Group**』 ](https://t.me/naughty_stud_ents)
+  - **Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ :** [『**Cʜᴀᴛ Gʀᴏᴜᴘ**』 ](https://t.me/naughty_stud_ents)
    
-  - **Support Group** [『**Helping Group**』](https://t.me/ToxicSpamxD)
+  - **Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** [『**Hᴇʟᴘɪɴɢ Gʀᴏᴜᴘ**』](https://t.me/ToxicSpamxD)
 
 ----------------------
 
@@ -77,7 +77,7 @@
 
    -  [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) **:** **Owner of This Repository**
 
-   - [**CopyCat**](https://GitHub.com/Copycat-izz-opp) **:** **Contributor of This Repository**
+   - [**CᴏᴘʏCᴀᴛ**](https://GitHub.com/Copycat-izz-opp) **:** **Contributor of This Repository**
 
    -  **Special Thanks to** [**Yukki Team**](https://t.me/officialyukki)
 ---------
