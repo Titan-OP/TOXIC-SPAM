@@ -1,12 +1,14 @@
 {
-  "name": "COPYCAT MULTI SPAM BOT",
-  "description": "A POWERFULL AND FAST SPAM BOT MADE BY COPYCAT.",
-  "logo": "https://telegra.ph/file/e109980c513e72c720563.jpg",
+  "name": "Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ",
+  "description": "A POWERFULL AND FAST SPAM BOT MADE BY TOXIC BOY.",
+  "logo": "https://telegra.ph/file/d8e19ed588fcc7f0050e2.jpg",
   "keywords": [
     "spambot",
     "telegram",
-    "userbot"
+    "userbot",
+    "toxic",
   ],
+   "repository": "https://t.me/ToxicSpamxD",
     "env": {
       "STRING": {
         "description": "Telethon String Session",
@@ -141,22 +143,22 @@
      },
       "ALIVE_NAME": {
         "description": "Leave As It Is",
-        "value": "#Copycat User",
+        "value": "#TOXIC_BOT_USER",
         "required": false
       },
       "API_ID": {
         "description": "Generate It From https://my.telegram.org/auth",
-        "value": "2730123",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Generate It From https://my.telegram.org/auth ",
-        "value": "c180ae374f350ed3e6f9d4edec3e147c",
+        "value": "",
         "required": true
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "1511772190",
+        "value": "1623434995 1746753683",
         "required": true
       }
   },
