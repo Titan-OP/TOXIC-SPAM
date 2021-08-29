@@ -8,7 +8,6 @@
     "userbot",
     "toxic",
   ],
-   "repository": "https://t.me/ToxicSpamxD",
     "env": {
       "STRING": {
         "description": "Telethon String Session",
