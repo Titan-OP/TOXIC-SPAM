@@ -5,8 +5,7 @@
   "keywords": [
     "spambot",
     "telegram",
-    "userbot",
-    "toxic",
+    "userbot"
   ],
     "env": {
       "STRING": {
@@ -147,12 +146,12 @@
       },
       "API_ID": {
         "description": "Generate It From https://my.telegram.org/auth",
-        "value": "",
+        "value": "12345",
         "required": true
       },
       "API_HASH": {
         "description": "Generate It From https://my.telegram.org/auth ",
-        "value": "",
+        "value": "abcdefgfhijklmnopqrstuvwxyz",
         "required": true
       },
       "SUDO": {
