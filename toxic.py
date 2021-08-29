@@ -1430,7 +1430,14 @@ BOY = f"tg://user?id={1623434995}"
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "#TOXIC_OP_BOLTE !"
+        text = """
+╥━━━━━━━━╭━━╮━━┳
+╢╭╮╭━━━━━┫┃▋▋━▅┣
+╢┃╰┫┈┈┈┈┈┃┃┈┈╰┫┣
+╢╰━┫┈┈┈┈┈╰╯╰┳━╯┣
+╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣
+╨━━┗┛┗┛━━┗┛┗┛━━┻
+"""
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
@@ -1438,9 +1445,6 @@ async def ping(e):
 ✘• Pᴏɴɢ •✘
 ••➖➖➖➖➖➖••
 📍 Pɪɴɢ Sᴘᴇᴇᴅ : `{ms}`ᴍs
-👑 Cʀᴇᴀᴛᴏʀs :
-• [тєcнησ✘ρяσ](tg://user?id={1097093376})
-• [Tσχιc✘Bσу](tg://user?id={1623434995})
 ••➖➖➖➖➖➖••
 😈𝐓𝐎𝐗𝐈𝐂 𝐎𝐏 𝐁𝐎𝐋𝐓𝐄😈
 ••➖➖➖➖➖➖••
@@ -1563,13 +1567,13 @@ async def help(e):
     
         
 text = """
-😈Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ ɪꜱ ᴍᴏᴅɪꜰɪᴇᴅ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ʏᴜᴋᴋɪ😈
-       🔥🔥🔥 Mᴀᴅᴇ Bʏ Tᴏxɪᴄ Bᴏʏ 🔥🔥🔥
+😈Toxic SpamBot is Modified Version of Yukki😈
+       🔥🔥🔥 Made By Toxic Boy 🔥🔥🔥
 """
 
 print(text)
 print("")
-print("Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ is Successfully Deployed on Your Account. Type .ping or to check if it is running!! For help join @ToxicSpamxD. #TOXIC_OP_BOLTE")
+print("Toxic SpamBot is Successfully Deployed on Your Account. Type .ping or to check if it is running!! For help join @ToxicSpamxD. #TOXIC_OP_BOLTE")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
