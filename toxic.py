@@ -830,11 +830,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
         if len(e.text) > 5:
             bio = str(yukki[0])
-            text = "CHANGE HO GYI BHADWE"
+            text = "BIO CHANGED SUCCESSFULLY!!"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("Succesfully Changed Bio By COPYCAT MULTI SPAMBOT")
+                await event.edit("Succesfully Changed Bio By Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -872,11 +872,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = " HO RHA HU JOIN RUKK......"
+            text = "JOINING SIRRRR.....!!!"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("HO GYA JOIN SIR")
+                await event.edit("JOINED THE CHAT SUCCESSFULLY!!")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -916,11 +916,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = yukki[0]
-            text = "HO RHA HU JOIN RUKK......"
+            text = "JOINING SIRRRRR......!!!"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("HO GYA HU JOIN SIR")
+                await event.edit("SUCCESSFULLY JOINED THE CHAT!")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -967,7 +967,7 @@ async def _(e):
 
             bc = int(bc)
 
-            text = "#Op Copycat Bot Leaving....."
+            text = "Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ LEAVING THIS CHAT....!!"
 
             event = await e.reply(text, parse_mode=None, link_preview=None )
 
@@ -975,7 +975,7 @@ async def _(e):
 
                 await event.client(LeaveChannelRequest(bc))
 
-                await event.edit("HO GYA LEAVE SIR😈")
+                await event.edit("Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ SUCCESSFULLY LEFT THE CHAT😈")
 
             except Exception as e:
 
@@ -1322,7 +1322,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "Activated Reply Raid"
+            text = "Successfully Activated Reply Raid"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1381,7 +1381,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "De-Activated Reply Raid"
+            text = "Successfully De-Activated Reply Raid"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1397,7 +1397,8 @@ async def _(e):
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
     
-       
+TOXIC = "𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜"
+BOY = f"tg://user?id={1623434995}"
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
@@ -1428,18 +1429,19 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "Op Copycat !"
+        text = "#TOXIC_OP_BOLTE !"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
         await event.edit(f"""
-    ||•𝗖𝗢𝗣𝗬𝗖𝗔𝗧 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧•||
-╔═╗╔═╗╔═╦╗╔══╗
-║╬║║║║║║║║║╔═╣
-║╔╝║║║║║║║║╚╗║
-╚╝─╚═╝╚╩═╝╚══╝!\n`{ms}` 𝗺𝘀"
-
-
+✘• Pᴏɴɢ •✘
+••➖➖➖➖➖➖••
+📍 Pɪɴɢ sᴘᴇᴇᴅ : `{ms}`ᴍs
+👑 Cʀᴇᴀᴛᴏʀ : [{TOXIC}]({BOY})
+••➖➖➖➖➖➖••
+😈𝐓𝐎𝐗𝐈𝐂 𝐎𝐏 𝐁𝐎𝐋𝐓𝐄😈
+••➖➖➖➖➖➖••
+              ©@ToxicSpamxD
 """
 )
         
@@ -1558,13 +1560,13 @@ async def help(e):
     
         
 text = """
-
-💥💥ᑕOᑭYᑕᗩT ᗰᑌᒪTI Տᑭᗩᗰ ᗷOT IՏ ᗩ ᗰOᗪIᖴIᗴᗪ ᐯᗴᖇՏIOᑎ Oᖴ YᑌKKI  💥💥💥
-💥💥💥💥💥💥 ᗷY ᑕOᑭYᑕᗩT   Oᑭ 💥💥💥💥💥💥"""
+😈😈Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ ɪꜱ ᴍᴏᴅɪꜰɪᴇᴅ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ʏᴜᴋᴋɪ😈😈
+        🔥🔥🔥 Mᴀᴅᴇ Bʏ Tᴏxɪᴄ Bᴏʏ 🔥🔥🔥
+"""
 
 print(text)
 print("")
-print("SMEX ! ᑕᕼᗩᒪ ᘜYᗩ ᗰᗩᗪᗩᖇᑕᕼOᗪ Tᗴᖇᗩ ᗷOT ᒍᗩᗩ ᒍᗩKᗴ .ping ᒪIKᕼ Kᗴ ᗪᗴKᕼ #Oᑭ ᑕOᑭYᑕᗩT.")
+print("Tᴏxɪᴄ SᴘᴀᴍBᴏᴛ is Successfully Deployed on Your Account. Type .ping or to check if it is running!! For help join @ToxicSpamxD. #TOXIC_OP_BOLTE")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
