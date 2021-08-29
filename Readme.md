@@ -37,7 +37,7 @@
 
 ## 👥 Mʏ Sᴏᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛꜱ
 
-📬 **Telegram   :** [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) 
+📬 **Telegram   :** [**𝐓σχιc✘𝐁σу**](https://t.me/ToxicBoyxD) 
 
 
 
