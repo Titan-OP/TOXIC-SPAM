@@ -75,7 +75,7 @@
 
 ## 🎀 Cʀᴇᴅɪᴛs
 
-   -  [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) **:** **oᴡɴᴇʀ Oꜰ Tʜɪꜱ Rᴇᴘᴏꜱɪᴛᴏʀʏ**
+   -  [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) **:** **Oᴡɴᴇʀ Oꜰ Tʜɪꜱ Rᴇᴘᴏꜱɪᴛᴏʀʏ**
 
    - [**CᴏᴘʏCᴀᴛ**](https://GitHub.com/Copycat-izz-opp) **:** **Cᴏɴᴛʀɪʙᴜᴛᴏʀ Oꜰ Tʜɪꜱ Rᴇᴘᴏꜱɪᴛᴏʀʏ**
 
