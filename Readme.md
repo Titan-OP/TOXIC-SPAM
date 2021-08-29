@@ -37,15 +37,15 @@
 
 ## 👥 Mʏ Sᴏᴄɪᴀʟ Aᴄᴄᴏᴜɴᴛꜱ
 
-📬 **Telegram   :** ✨ [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) ✨
+📬 **Telegram   :** [**𒆜𓆩𝐓σχιc✘𝐁σу𓆪𒆜**](https://t.me/ToxicBoyxD) 
 
 
 
-😺 **Github     :** ✨ [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) ✨
+😺 **Github     :** [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP) 
 
 
 
-🎭 **Instagram  :** ✨ [**Tᴇᴄʜɴᴏ★Pʀᴏ**](https://instagram.com/miraculous_tech?utm_medium=copy_link) ✨
+🎭 **Instagram  :** [**Tᴇᴄʜɴᴏ★Pʀᴏ**](https://instagram.com/miraculous_tech?utm_medium=copy_link) 
 
 ----------------------
 
